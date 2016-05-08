@@ -127,7 +127,7 @@ Total errors: %d
           speed-type-explaining-message))
 
 (defvar speed-type--gb-url-format
-  "https://www.gutenberg.org/cache/epub/%d/pg%d.txt")
+  "http://www.gutenberg.org/cache/epub/%d/pg%d.txt")
 
 (defvar speed-type--gb-book-list
   '(1342 11 1952 1661 74 1232 23 135 5200 2591 844 84 98 2701 1400 16328 174
